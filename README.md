@@ -26,9 +26,7 @@ Aqui estão alguns gráficos que mostram meu progresso nas linguagens que domino
 
 Vamos conversar sobre tecnologia? Você pode me encontrar em diversas plataformas:
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- [Twitter](https://www.twitter.com/seu-perfil)
-- [Instagram](https://www.instagram.com/seu-perfil)
-- Email: seuemail@example.com
+- [Discord](https://www.linkedin.com/in/seu-perfil)
+- Email: chenrique0000@proton.me
 
 Fique à vontade para entrar em contato, tirar dúvidas ou apenas bater um papo! 🌌
