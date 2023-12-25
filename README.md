@@ -1,16 +1,34 @@
-### Hi there 👋
+# Bem-vindos ao meu perfil! 👋
 
-<!--
-**imkarlz/imkarlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim 💼
 
-Here are some ideas to get you started:
+Olá, eu sou [seu nome]! ✌️ Sou apaixonado por tecnologia e estou constantemente buscando conhecimento na área de segurança cibernética e hacking ético 🍒. Tenho experiência em desenvolvimento web utilizando HTML, CSS e BASH, além de estar estudando JavaScript e PHP atualmente. Também estou sempre buscando aprender mais sobre outras linguagens de programação e suas aplicações.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades técnicas 🚀
+
+- HTML
+- CSS
+- BASH
+- JavaScript (em estudo)
+- PHP (em estudo)
+
+## Gráficos 📊
+
+Aqui estão alguns gráficos que mostram meu progresso nas linguagens que domino:
+
+![HTML Progress](https://progress-bar.dev/70/?title=HTML)
+![CSS Progress](https://progress-bar.dev/60/?title=CSS)
+![BASH Progress](https://progress-bar.dev/50/?title=BASH)
+![JavaScript Progress](https://progress-bar.dev/30/?title=JavaScript)
+![PHP Progress](https://progress-bar.dev/20/?title=PHP)
+
+## Contato 📫
+
+Vamos conversar sobre tecnologia? Você pode me encontrar em diversas plataformas:
+
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- [Twitter](https://www.twitter.com/seu-perfil)
+- [Instagram](https://www.instagram.com/seu-perfil)
+- Email: seuemail@example.com
+
+Fique à vontade para entrar em contato, tirar dúvidas ou apenas bater um papo! 🌌
