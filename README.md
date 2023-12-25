@@ -2,7 +2,7 @@
 
 ## Sobre mim 💼
 
-Olá, eu sou [seu nome]! ✌️ Sou apaixonado por tecnologia e estou constantemente buscando conhecimento na área de segurança cibernética e hacking ético 🍒. Tenho experiência em desenvolvimento web utilizando HTML, CSS e BASH, além de estar estudando JavaScript e PHP atualmente. Também estou sempre buscando aprender mais sobre outras linguagens de programação e suas aplicações.
+Olá, eu sou o Carlos! ✌️ Sou apaixonado por tecnologia e estou constantemente buscando conhecimento na área de segurança cibernética e hacking ético 🍒. Tenho experiência em desenvolvimento web utilizando HTML, CSS e BASH, além de estar estudando JavaScript e PHP atualmente. Também estou sempre buscando aprender mais sobre outras linguagens de programação e suas aplicações.
 
 ## Habilidades técnicas 🚀
 
