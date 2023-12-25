@@ -27,6 +27,6 @@ Aqui estão alguns gráficos que mostram meu progresso nas linguagens que domino
 Vamos conversar sobre tecnologia? Você pode me encontrar em diversas plataformas:
 
 - [Discord](https://discord.com/users/1180276578542960823)
-- Email: chenrique0000@proton.me
+- Email: carlos.contato@myinfoinc.com
 
 Fique à vontade para entrar em contato, tirar dúvidas ou apenas bater um papo! 🌌
