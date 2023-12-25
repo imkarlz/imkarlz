@@ -2,7 +2,7 @@
 
 ## Sobre mim 💼
 
-Olá, eu sou o Carlos! ✌️ Sou apaixonado por tecnologia e estou constantemente buscando conhecimento na área de segurança cibernética e hacking ético 🍒. Tenho experiência em desenvolvimento web utilizando HTML, CSS e BASH, além de estar estudando JavaScript e PHP atualmente. Também estou sempre buscando aprender mais sobre outras linguagens de programação e suas aplicações.
+Olá, eu sou o Carlos! ✌️ Sou apaixonado por tecnologia e estou constantemente buscando conhecimento na área de segurança cibernética e hacking ético 🍒. Tenho experiência em desenvolvimento web utilizando HTML, CSS e BASH, além de estar estudando JavaScript e PHP atualmente. Também estou sempre buscando aprender mais sobre outras linguagens de programação e suas aplicações. Um fato engraçado sobre mim: eu sou menor de idade, quando eu preciso criar uma conta maior de idade eu sempre coloco 2004, quando dá pra criar uma conta sendo de menor eu sempre coloco 2009.
 
 ## Habilidades técnicas 🚀
 
