@@ -16,11 +16,11 @@ Olá, eu sou [seu nome]! ✌️ Sou apaixonado por tecnologia e estou constantem
 
 Aqui estão alguns gráficos que mostram meu progresso nas linguagens que domino:
 
-![HTML Progress](https://progress-bar.dev/70/?title=HTML)
-![CSS Progress](https://progress-bar.dev/60/?title=CSS)
-![BASH Progress](https://progress-bar.dev/50/?title=BASH)
+![HTML Progress](https://progress-bar.dev/100/?title=HTML)
+![CSS Progress](https://progress-bar.dev/100/?title=CSS)
+![BASH Progress](https://progress-bar.dev/75/?title=BASH)
 ![JavaScript Progress](https://progress-bar.dev/30/?title=JavaScript)
-![PHP Progress](https://progress-bar.dev/20/?title=PHP)
+![PHP Progress](https://progress-bar.dev/30/?title=PHP)
 
 ## Contato 📫
 
